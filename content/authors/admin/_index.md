@@ -15,7 +15,7 @@ role: PhD student in Computer Science
 # Organizations/Affiliations
 organizations:
 - name: Cornell University
-  url: ""
+  url: "https://www.cs.cornell.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
