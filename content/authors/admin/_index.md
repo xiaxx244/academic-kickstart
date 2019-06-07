@@ -18,8 +18,7 @@ organizations:
   url: "https://www.cs.cornell.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio:
-
+bio:I have finished my undergraduate study majoring in Computer Science and Mathematics at University of Minnesota, Twin Cities. My research interests lie in the development and application of computer vision, natural language processing in robotics.  I will join Cornell Univeristy as a Ph.D. student in Fall 2019!
 
 interests:
 - Compurter Vision
