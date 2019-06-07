@@ -43,7 +43,7 @@ social:
   link: '#contact'  # For a direct email link, use "yx454@cornell.edu".
 - icon: twitter
   icon_pack: fab
-  link:https://twitter.com/Catherine_Youya
+  link: https://twitter.com/Catherine_Youya
 - icon: google-scholar
   icon_pack: ai
   link: 
