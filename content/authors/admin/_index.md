@@ -15,10 +15,10 @@ role: PhD student in Computer Science
 # Organizations/Affiliations
 organizations:
 - name: Cornell University
-  url: "https://www.cornell.edu/"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio:I have finished my undergraduate study majoring in Computer Science and Mathematics at University of Minnesota, Twin Cities. My research interests lie in the development and application of computer vision, natural language processing in robotics.  I will join Cornell Univeristy as a Ph.D. student in Fall 2019!
+bio:
 
 
 interests:
