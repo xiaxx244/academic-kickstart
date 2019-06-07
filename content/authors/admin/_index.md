@@ -63,5 +63,9 @@ email: "yx454@cornell.edu"
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Researchers
-- Visitors
+- PhD students
 ---
+
+Youya Xia has just earned Bachelor of Science in Computer Science and Mathematics in University of Minnesota, Twin Cities. Her research interests lie in the development and application of computer vision, natural language processing techniques in robotics. She will join Cornell University as a PhD student starting Fall 2019!
+
+Youya Xia刚刚获得明尼苏达大学双子城的计算机科学和数学理学学士学位。她的研究兴趣在于计算机视觉的开发和应用，机器人技术中的自然语言处理技术。从2019年秋季开始，她将作为博士生加入康奈尔大学！
