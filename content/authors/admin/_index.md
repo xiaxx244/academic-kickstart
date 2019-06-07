@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "".
+  link: '#contact'  # For a direct email link, use "yx454@cornell.edu".
 - icon: twitter
   icon_pack: fab
   link:
