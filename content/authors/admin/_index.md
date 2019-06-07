@@ -18,7 +18,7 @@ organizations:
   url: "https://www.cs.cornell.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: I am
 
 interests:
 - Compurter Vision
