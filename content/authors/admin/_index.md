@@ -26,15 +26,12 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science
+    institution: Cornell University
+    year: 2024(expected)
+  - course: BSc in Mathematics and Computer Science
+    institution: University of Minnesota, Twin Cities
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -46,7 +43,7 @@ social:
   link: '#contact'  # For a direct email link, use "yx454@cornell.edu".
 - icon: twitter
   icon_pack: fab
-  link:
+  link:https://twitter.com/Catherine_Youya
 - icon: google-scholar
   icon_pack: ai
   link: 
