@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Youya Xia
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD student in Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Cornell University
+  url: "https://www.cornell.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:I have finished my undergraduate study majoring in Computer Science and Mathematics at University of Minnesota, Twin Cities. My research interests lie in the development and application of computer vision, natural language processing in robotics.  I will join Cornell Univeristy as a Ph.D. student in Fall 2019!
+
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Compurter Vision
+- Robotics perception
 
 education:
   courses:
