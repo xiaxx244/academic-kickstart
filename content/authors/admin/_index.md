@@ -18,7 +18,7 @@ organizations:
   url: "https://www.cs.cornell.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am
+bio: I have just earned my Bachelor of Science in Computer Science and Mathematics in University of Minnesota, Twin Cities. My research interests lie in the development and application of computer vision, natural language processing techniques in robotics. I will join Cornell University as a PhD student starting Fall 2019!
 
 interests:
 - Compurter Vision
@@ -43,16 +43,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:yx454@cornell.eduy".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link:https://twitter.com/Catherine_Youya
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=EnW0ddoAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/xiaxx244
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -60,7 +60,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "yx454@cornell.edu"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -69,6 +69,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Youya Xia has just earned Bachelor of Science in Computer Science and Mathematics in University of Minnesota, Twin Cities. Her research interests lie in the development and application of computer vision, natural language processing techniques in robotics. She will join Cornell University as a PhD student starting Fall 2019!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Youya Xia刚刚获得明尼苏达大学双子城的计算机科学和数学理学学士学位。她的研究兴趣在于计算机视觉的开发和应用，机器人技术中的自然语言处理技术。从2019年秋季开始，她将作为博士生加入康奈尔大学！
