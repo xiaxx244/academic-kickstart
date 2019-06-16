@@ -26,4 +26,7 @@ featured: false
 publication: "*2019 IEEE International Conference on Robotics and Automation*"
 tags: ["Computer Vision", "Robotics Perception", "Human-Robot Collaboration"]
 url_slides: "diver_detection.pdf"
+url_video: "https://www.youtube.com/watch?v=rbsOBoG2QeM&feature=youtu.be"
+url_code: "https://github.com/xiaxx244/diver_detection"
+
 ---
