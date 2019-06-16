@@ -24,6 +24,6 @@ divers swimming in front of a mobile robot and demonstrate
 its accuracy."
 featured: false
 publication: "*2019 IEEE International Conference on Robotics and Automation*"
-tags: ["Computer Vision", "Robotics Perception", "Human-Robot Interaction"]
+tags: ["Computer Vision", "Robotics Perception", "Human-Robot Collaboration"]
 url_slides: "diver_detection.pdf"
 ---
