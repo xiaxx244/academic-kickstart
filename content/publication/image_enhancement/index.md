@@ -1,3 +1,4 @@
+---
 title: "Fast Underwater Image Enhancement for Improved Visual Perception"
 date: 2019-03
 authors: ["Md Jahidul Islam","Youya Xia", "Junaed Sattar"]
@@ -7,3 +8,5 @@ featured: false
 publication: "*Preparation for submission*"
 tags: ["Computer Vision", "Robotics Perception", "Human-Robot Collaboration", "Underwater Robotics"]
 url_video: "https://www.youtube.com/watch?v=8VhMUh3CmZA"
+
+---
