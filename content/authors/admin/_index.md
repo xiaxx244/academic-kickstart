@@ -66,4 +66,4 @@ user_groups:
 - PhD students
 ---
 
-Youya Xia has just earned Bachelor of Science in Computer Science and Mathematics in University of Minnesota, Twin Cities. Her research interests lie in the development and application of computer vision, natural language processing techniques in robotics. She works with Prof. Junaed Sattar about underwater robotics perception during her undergraduate years. She will join Cornell University as a PhD student starting Fall 2019!
+Youya Xia has just earned Bachelor of Science in Computer Science and Mathematics in University of Minnesota, Twin Cities. Her research interests lie in the development and application of computer vision, natural language processing techniques in robotics. She worked with Prof. Junaed Sattar about underwater robotics perception during her undergraduate years. She will join Cornell University as a PhD student starting Fall 2019!
