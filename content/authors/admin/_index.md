@@ -18,11 +18,13 @@ organizations:
   url: "https://www.cs.cornell.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I have just earned my Bachelor of Science in Computer Science and Mathematics in University of Minnesota, Twin Cities. My research interests lie in the development and application of computer vision, natural language processing techniques in robotics. I will join Cornell University as a PhD student starting Fall 2019!
+bio: I have just earned my Bachelor of Science in Computer Science and Mathematics in University of Minnesota, Twin Cities. My research interests lie in the development and application of computer vision in robotics, human-robot interaction and reinforcement learning. I will join Cornell University as a PhD student starting Fall 2019!
 
 interests:
-- Compurter Vision
 - Robotics perception
+- Compurter Vision
+- Human-robot Interaction
+- Reinforcement learning
 
 education:
   courses:
@@ -66,4 +68,4 @@ user_groups:
 - PhD students
 ---
 
-Youya Xia has just earned Bachelor of Science in Computer Science and Mathematics in University of Minnesota, Twin Cities. Her research interests lie in the development and application of computer vision, natural language processing techniques in robotics. She worked with Prof. Junaed Sattar about underwater robotics perception during her undergraduate years. She will join Cornell University as a PhD student starting Fall 2019!
+Youya Xia has just earned Bachelor of Science in Computer Science and Mathematics in University of Minnesota, Twin Cities. Her research interests lie in the development and application of computer vision in robotics, human-robot interaction and reinforcement learning. She worked with Prof. Junaed Sattar about underwater robotics perception during her undergraduate years. She will join Cornell University as a PhD student starting Fall 2019!
