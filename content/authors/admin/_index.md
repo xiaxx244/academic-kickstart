@@ -22,8 +22,9 @@ bio: I have just earned my Bachelor of Science in Computer Science and Mathemati
 
 interests:
 - Robotics perception
-- Compurter Vision
+- Computer Vision
 - Human-robot Interaction
+- Few shot learning
 - Reinforcement learning
 
 education:
