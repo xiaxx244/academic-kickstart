@@ -68,4 +68,4 @@ user_groups:
 - PhD students
 ---
 
-Youya Xia is a currently PhD student studying robotics and computer vision at Cornell University. She is currently working with Professor Hoffman in the Blossoam and ShadowSense Project. I earned my Bachelor of Science in Computer Science and Mathematics in University of Minnesota, Twin Cities. My research interests lie in the development and application of computer vision in robotics, human-robot interaction and reinforcement learning.
+Youya Xia is a first-year PhD student studying robotics and computer vision at Cornell University. She is currently working with Professor Hoffman in improving the affective motion of Blossom. She earned my Bachelor of Science in Computer Science and Mathematics in University of Minnesota, Twin Cities. Her research interests lie in the development and application of computer vision in robotics, human-robot interaction and reinforcement learning.
