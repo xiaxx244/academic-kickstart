@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Youya Xia
+name: Youya Xia(夏尤雅)
 
 # Username (this should match the folder name)
 authors:
