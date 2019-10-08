@@ -52,7 +52,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "yx454@cornell.edu"
 phone = "6127187640"
-address = "2250 N Triphammer Rd, Apt EL1, Ithaca, New York 14850."
+address = "Gates Hall G33, 107 Hoy Rd, Ithaca, NY 14853"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
