@@ -57,6 +57,7 @@ subtitle = ""
  css_class = ""
 +++
 ### News
-- Sep 2019: Staring working on the blossom and ShadowSense projects at the HRC2 lab!
-- Aug 2019: Starting Ph.D. at Cornell
-- Aug 2019: Leave IRV lab (Miss all my awesome colleagues at the IRV lab)!
+- Sep 2019: Staring working on the blossom and ShadowSense projects at the [HRC2 lab](https://hrc2.io)!
+- Sep 2019: Submitted a paper to ICRA 2020 as a second author!
+- Aug 2019: Starting Ph.D. at [Cornell](https://www.cs.cornell.edu)!
+- Aug 2019: Leave [IRV lab](http://irvlab.cs.umn.edu/) (Miss all my awesome colleagues at the IRV lab)!
