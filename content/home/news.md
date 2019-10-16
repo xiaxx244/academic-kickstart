@@ -12,10 +12,6 @@ subtitle = ""
   # Page type to display. E.g. project.
   page_type = "News"
   filter_default = 0
-  ### News
-- Sep 2019: Staring working on the blossom and ShadowSense projects at the HRC2 lab!
-- Aug 2019: Starting Ph.D. at Cornell
-- Aug 2019: Leave IRV lab (Miss all my awesome colleagues at the IRV lab)!
   [[content.filter_button]]
      name = "All"
      tag = "*"
@@ -60,3 +56,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+### News
+- Sep 2019: Staring working on the blossom and ShadowSense projects at the HRC2 lab!
+- Aug 2019: Starting Ph.D. at Cornell
+- Aug 2019: Leave IRV lab (Miss all my awesome colleagues at the IRV lab)!
