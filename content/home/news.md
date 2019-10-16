@@ -56,7 +56,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-### News
 - Sep 2019: Staring working on the blossom and ShadowSense projects at the [HRC2 lab](https://hrc2.io)!
 - Sep 2019: Submitted a paper to ICRA 2020 as a second author!
 - Aug 2019: Starting Ph.D. at [Cornell](https://www.cs.cornell.edu)!
