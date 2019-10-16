@@ -56,7 +56,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-- Sep 2019: Staring working on the blossom and ShadowSense projects at the [HRC2 lab](https://hrc2.io)!
-- Sep 2019: Submitted a paper to ICRA 2020 as a second author!
-- Aug 2019: Starting Ph.D. at [Cornell](https://www.cs.cornell.edu)!
-- Aug 2019: Leave [IRV lab](http://irvlab.cs.umn.edu/) (Miss all my awesome colleagues at the IRV lab)!
+- Sep 2019: Staring working on the blossom and ShadowSense projects at the [HRC2 lab](https://hrc2.io) !
+- Sep 2019: Submitted a paper to ICRA 2020 as a second author !
+- Aug 2019: Starting Ph.D. at [Cornell](https://www.cs.cornell.edu) (About to begin an uncharted and exciting journey) !
+- Aug 2019: Leave [IRV lab](http://irvlab.cs.umn.edu/) (Miss all my awesome colleagues at the IRV lab) !
+- May 2019: Graduated from U of Minnesota! Miss all my friends at Minnesota!
