@@ -18,7 +18,7 @@ organizations:
   url: "https://www.cs.cornell.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a currently PhD student studying robotics and computer vision at Cornell University. I am currently working with Professor Hoffman in the Blossoam and ShadowSense Project. I earned my Bachelor of Science in Computer Science and Mathematics in University of Minnesota, Twin Cities. My research interests lie in the development and application of computer vision in robotics, human-robot interaction and reinforcement learning. 
+bio: I am a currently PhD student studying robotics, reinforcement learning and computer vision at Cornell University. I earned my Bachelor of Science in Computer Science and Mathematics in University of Minnesota, Twin Cities. My research interests lie in the development and application of computer vision in robotics, human-robot interaction and reinforcement learning. 
 interests:
 - Robotics perception
 - Computer Vision
@@ -68,6 +68,6 @@ user_groups:
 - PhD students
 ---
 
-Youya Xia is a first-year PhD student studying robotics and computer vision at Cornell University. She is currently working with Professor Hoffman about improving the affective motion of Blossom using reinforcment learning techniques (e.g. actor critic algorithm). She earned her Bachelor of Science in Computer Science and Mathematics in University of Minnesota, Twin Cities. She worked with Professor Junaed Sattar about underwater robotics and robotics perception during her undergraduate years. Her research interests lie in the development and application of computer vision in robotics, human-robot interaction and reinforcement learning. If you have similar research interests, feel free to contact her!
+Youya Xia is a first-year PhD student studying robotics and computer vision at Cornell University. She is currently working about improving the affective motion of Blossom using reinforcment learning techniques (e.g. actor critic algorithm). She earned her Bachelor of Science in Computer Science and Mathematics in University of Minnesota, Twin Cities. She worked with Professor Junaed Sattar about underwater robotics and robotics perception during her undergraduate years. Her research interests lie in the development and application of computer vision in robotics, human-robot interaction and reinforcement learning. If you have similar research interests, feel free to contact her!
 
 She is currently seeking research internship opporunites in the field of robotics, reinforcement learning and computer vision during summer 2020. If you have such opportunities, feel free to contact her!
