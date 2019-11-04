@@ -20,18 +20,18 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I am a currently PhD student studying robotics, reinforcement learning and computer vision at Cornell University. I earned my Bachelor of Science in Computer Science and Mathematics in University of Minnesota, Twin Cities. My research interests lie in the development and application of computer vision in robotics, human-robot interaction and reinforcement learning. 
 interests:
-- Robotics perception
+- Robotics
+- Reinforcement learning
+- Meta-Learning
 - Computer Vision
 - Human-robot Interaction
-- Few shot learning
-- Reinforcement learning
 
 education:
   courses:
   - course: PhD in Computer Science
     institution: Cornell University
     year: 2024(expected)
-  - course: BSc in Mathematics and Computer Science
+  - course: BSc in Mathematics and Computer Science (with high distinction)
     institution: University of Minnesota, Twin Cities
     year: 2019
 
