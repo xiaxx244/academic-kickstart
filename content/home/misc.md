@@ -9,7 +9,7 @@ subtitle = ""
 widget = "custom"
 
 # Order that this section will appear in.
-weight = 60
+weight = 100
 
 +++
 
