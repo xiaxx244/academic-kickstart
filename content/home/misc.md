@@ -9,7 +9,7 @@ subtitle = ""
 widget = "custom"
 
 # Order that this section will appear in.
-weight = 60
+weight = 10
 
 +++
 
@@ -23,15 +23,8 @@ weight = 60
 * Cornell University: CS 3110 Functional Programming Fall 2019
 * University of Minnesota: CSCI2011 Discrete Mathematics in Fall 2018, CSCI2033 Linear Algebra in Spring 2019, MATH2263 Multivariate Calculus in Summer 2017.
 
-
-### Hobbies
-
-* Harry Potter Fan ("Wit beyond measure is man's greatest treasure") and my favourite character is [Luna Lovegood](https://www.wizardingworld.com/features/seven-reasons-to-love-luna-lovegood)
-* I like tennis, my favourite player is Roger Federer
-* I like soccer, my favourite player is Leo Messi and my favourite soccer Team is Barcelona
-
-
-
 ### Personal Interests
 
-* I enjoy photography, please see <a href="http://500px.com/richardaecn">my 500px profile</a>.
+* Harry Potter Fan (["Wit beyond measure is man's greatest treasure"](https://pottermore.fandom.com/wiki/Ravenclaw)) and my favourite character is [Luna Lovegood](https://www.wizardingworld.com/features/seven-reasons-to-love-luna-lovegood)
+* I like playing tennis and my favourite player is [Roger Federer](https://en.wikipedia.org/wiki/Roger_Federer)
+* Besides, I also like watching soccer matches. My favourite player is [Leo Messi](https://en.wikipedia.org/wiki/Lionel_Messi) and my favourite soccer Team is [Barcelona](https://en.wikipedia.org/wiki/Barcelona)
