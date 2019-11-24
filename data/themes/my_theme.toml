@@ -1,18 +1,19 @@
 # Theme metadata
-name = "Cupcake"
+name = "1950s"
 
 # Is theme light or dark?
 light = true
 
 # Primary
-primary = "#EC407A"
+primary = "#EF525B"
 
 # Menu
-menu_primary = "#BE37C7"
-menu_text = "#FFB298"
-menu_text_active = "#fff"
-menu_title = "#FFB298"
+menu_primary = "#CB9124"
+menu_text = "#fff"
+menu_text_active = "#00828B"
+menu_title = "#fff"
 
-# Home sections
-home_section_odd = "#FFB298"
-home_section_even = "#FFB298"
+# Backgrounds
+background = "#EAE7D6"
+home_section_odd = "#EAE7D6"
+home_section_even = "#EAE7D6"
