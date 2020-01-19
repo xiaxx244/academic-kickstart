@@ -28,4 +28,4 @@ weight = 100
 * Harry Potter Fan (["Wit beyond measure is man's greatest treasure"](https://pottermore.fandom.com/wiki/Ravenclaw)) and my favourite character is [Luna Lovegood](https://www.wizardingworld.com/features/seven-reasons-to-love-luna-lovegood)
 * I like playing tennis and my favourite player is [Roger Federer](https://en.wikipedia.org/wiki/Roger_Federer)
 * Besides, I also like watching soccer matches. My favourite player is [Leo Messi](https://en.wikipedia.org/wiki/Lionel_Messi) and my favourite soccer team is [FC Barcelona](https://en.wikipedia.org/wiki/FC_Barcelona)
-* Like traveling in my extra time (I have traveled in France, German, Netherlands, Belgium, Luxembourg, Finland, UK, U.S. and China during my extra time)
+* Like traveling in my extra time (I have travelled in France, German, Netherlands, Belgium, Luxembourg, Finland, UK, U.S. and China during my extra time)
