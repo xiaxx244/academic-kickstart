@@ -57,7 +57,7 @@ subtitle = ""
  css_class = ""
 +++
 
-- Dec 2019: Join [ByteDance AI lab](https://ailab.bytedance.com/) at Mountain View CA as a summer intern during 2020!
+- Dec 2019: Join [ByteDance AI lab](https://ailab.bytedance.com/) at Mountain View CA as a summer research intern during 2020!
 - Sep 2019: Submitted a paper to ICRA 2020 as a second author !
 - Aug 2019: Started Ph.D. at [Cornell](https://www.cs.cornell.edu) (About to begin an uncharted and exciting journey) !
 - Aug 2019: Left [IRV lab](http://irvlab.cs.umn.edu/) (Miss all my awesome colleagues at the IRV lab) !
