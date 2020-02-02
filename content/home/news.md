@@ -56,4 +56,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+- Feb 2020: One paper get accepted by Robotics and Automation Letters!
 - Aug 2019: Started Ph.D. at [Cornell](https://www.cs.cornell.edu) (About to begin an uncharted and exciting journey) !
