@@ -56,6 +56,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-- May 2020: Will start to work as a research intern for [ByteDance AI Lab](https://ailab.bytedance.com/) at Mountain View CA!
+- June 2020: Will start to work as a research intern for [ByteDance AI Lab](https://ailab.bytedance.com/) at Mountain View CA!
 - Feb 2020: One paper get accepted by Robotics and Automation Letters!
 - Aug 2019: Started Ph.D. at [Cornell](https://www.cs.cornell.edu) (About to begin an uncharted and exciting journey) !
