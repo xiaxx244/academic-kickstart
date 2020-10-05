@@ -18,9 +18,11 @@ organizations:
   url: "https://www.cs.cornell.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a currently PhD student studying robotics, reinforcement learning and computer vision at Cornell University. I earned my Bachelor of Science in Computer Science and Mathematics in University of Minnesota, Twin Cities. My research interests lie in the development and application of reinforcement learning. 
+bio: I am a currently PhD student studying robotics, reinforcement learning and computer vision at Cornell University. I earned my Bachelor of Science in Computer Science and Mathematics in University of Minnesota, Twin Cities. My research interests lie in reinforcement learning, robotics and their intersections. 
 interests:
 - Reinforcement Learning
+- Robotics
+- Robotics perception
 
 education:
   courses:
@@ -64,4 +66,4 @@ user_groups:
 - PhD students
 ---
 
-Youya Xia is a second-year PhD student conducting research about robotics, reinforcement learning and computer vision at Cornell University. She earned her Bachelor of Science in Computer Science and Mathematics in University of Minnesota, Twin Cities. When she was at UMN, She worked with Professor Junaed Sattar about underwater robotics, computer vision and robotics perception. Currently, her research interests lie in reinforcement learning. She is still exploring future research directions and actively seeking collaborations lying in those areas.
+Youya Xia is a second-year PhD student conducting research about robotics, reinforcement learning and computer vision at Cornell University. She earned her Bachelor of Science in Computer Science and Mathematics in University of Minnesota, Twin Cities. When she was at UMN, She worked with Professor Junaed Sattar about underwater robotics, computer vision and robotics perception. Currently, her research interests lie in reinforcement learning, robotics and their intersections. She is still exploring future research directions and actively seeking collaborations lying in those areas.
