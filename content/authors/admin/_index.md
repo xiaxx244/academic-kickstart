@@ -68,4 +68,4 @@ user_groups:
 ---
 
 Youya Xia is a second-year PhD student conducting research about robotics, reinforcement learning and computer vision at Cornell University. She is a
-current member of Autonomous System Lab. Besides, she also works with The Human-Robot Collaboration & Companionship (HRC^2) Lab. Previously, she earned her Bachelor of Science in Computer Science and Mathematics in University of Minnesota, Twin Cities. When she was at UMN, She worked with Professor Junaed Sattar about underwater robotics, computer vision and robotics perception. Currently, her research interests lie in reinforcement learning, robotics and their intersections.
+current member of Autonomous System Lab. Besides, she works with The Human-Robot Collaboration & Companionship (HRC^2) Lab. Previously, she earned her Bachelor of Science in Computer Science and Mathematics in University of Minnesota, Twin Cities. When she was at UMN, She worked with Professor Junaed Sattar about underwater robotics, computer vision and robotics perception. Currently, her research interests lie in reinforcement learning, robotics, computer vision and their intersections.
