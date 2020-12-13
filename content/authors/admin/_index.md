@@ -22,7 +22,8 @@ bio: I am a currently PhD student studying robotics, reinforcement learning and 
 interests:
 - Reinforcement Learning
 - Robotics
-- Robotics perception
+- Robotics Perception
+- Planning
 
 education:
   courses:
