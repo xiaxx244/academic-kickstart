@@ -4,7 +4,7 @@
 title: "Accio"
 summary: "In this report we demonstrate the methodology of multi-robot collaboration, human-robot interaction and discussing the challenges we faced in this project and the insights gained from them, to be applied to future work in this domain."
 authors: [Youya Xia, Yingxin Wei, Xiaofei Chen and Ziqian Qiu]
-tags: [Human-Robot collaboration,Robotics Perception,Robotics Manipulation,Computer Vision]
+tags: [Human-Robot collaboration,Robotic Perception,Robotics Manipulation,Computer Vision]
 categories: [Project]
 date: 2018-12-15
 
