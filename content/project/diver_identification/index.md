@@ -4,7 +4,7 @@
 title: "Visual diver recognition underwater"
 summary: "We present an approach for autonomous underwater robots to visually detect and identify divers. The proposed approach enables an autonomous underwater robot to detect multiple divers in a visual scene and  distinguish between them"
 authors: [Youya Xia, Junaed Sattar]
-tags: [Underwater Robotics,Human-Robot collaboration,Robotics Perception, Computer Vision]
+tags: [Underwater Robotics,Human-Robot collaboration,Robotic Perception, Computer Vision]
 categories: [Project]
 date: 2018-9-15
 
